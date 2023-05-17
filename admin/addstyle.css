@@ -1,0 +1,16 @@
+.wrapper{
+    position:relative;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    border: 3px solid #603be7a1;
+    display: inline-block;
+}
+h3{
+color:black;
+}
+object
+{
+    min-width: 100%;
+    min-height: 101%;
+}
